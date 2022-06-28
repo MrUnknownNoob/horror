@@ -2,5 +2,5 @@
 
 pip install pygame<br>
 git clone https://github.com/mrwnknown/horror <br>
-cd horror
+cd horror<br>
 python3 horror.py
